@@ -26,4 +26,4 @@ I'm glad to meet everyone who would like to talk about issues in my field with m
  
  To reach me, you can mail to **i@liric.cn**
  
-** I STAND WITH RUSSIA, СУКА УКРАИНА **
+**I STAND WITH RUSSIA, СУКА УКРАИНА**
