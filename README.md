@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+**I STAND WITH RUSSIA, СУКА УКРАИНА. AND FUCK AMERICAN HEGEMONISM**
+### :house: Welcome
+> 位卑未敢忘忧国，事定犹须待阖棺。
+> ——陆游 《病起书怀》
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liricliu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  
 A normal Chinese electronic engineer.
  
 To reach me, you can mail to **i@liric.cn**
- 
-**I STAND WITH RUSSIA, СУКА УКРАИНА. AND FUCK AMERICAN HEGEMONISM**
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liricliu&layout=compact" />
