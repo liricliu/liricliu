@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**I STAND WITH RUSSIA, СУКА УКРАИНА. AND FUCK AMERICAN HEGEMONISM**
+**FUCK AMERICAN HEGEMONISM**
 ### :house: Welcome
 > 位卑未敢忘忧国，事定犹须待阖棺。
 > ——陆游 《病起书怀》
@@ -22,4 +22,37 @@ A normal Chinese electronic engineer.
  
 To reach me, you can mail to **i@liric.cn**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liricliu&layout=compact" />
+Skill Stack:
+
+:ballot_box_with_check: System Level：C（2014）/C++（2017）
+
+:ballot_box_with_check: GUI：Qt（2020）
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liricliu&layout=compact" />
+
+:ballot_box_with_check: Server：Golang（2022）/Python（2022）/C#（2023）
+
+:ballot_box_with_check: Embedded：ARM（2019）/MCS-51（2015）
+
+:ballot_box_with_check: PCB Designing（2021）
+
+:ballot_box_with_check: Solid Modeling（2022）
+
+Aiming：
+
+:clock430: System Level：Rust
+
+:clock430: Web：js
+
+:clock430: Graphic：Vulkan/OpenGL
+
+:clock430: Game Engine：Unity
+
+:clock430: Parallel Computing
+
+:clock430: Network Security
+
+:clock430: Large-scale Intergrated Circuit Designing
+
+:clock430: Virus ( for fun! )
+
